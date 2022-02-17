@@ -1,4 +1,4 @@
-FROM uqlibrary/php80-fpm:20210329
+FROM uqlibrary/php80-fpm:20220217
 
 ENV COMPOSER_ALLOW_SUPERUSER=1
 
